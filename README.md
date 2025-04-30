@@ -1,3 +1,6 @@
 # BoardGameGeek-Reviews
 
-Enlace al código de ejemplo: https://www.kaggle.com/code/scratchpad/notebookb9dd9540ad/edit
+Data Science: 
+https://pythonspeed.com/
+https://pandas.pydata.org/docs/reference/index.html
+
